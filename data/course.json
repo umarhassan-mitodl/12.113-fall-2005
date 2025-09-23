@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "legacy_uid": "a31a7d9b-a71f-1648-0f85-fce611118042",
+  "instructors": {
+    "content": [
+      "21bc9fb2-7832-7d65-ee9a-886b3d1de01f",
+      "0590d9a7-022f-14db-70bb-9ede505c046c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f74a5fa1-a6e9-c945-0ad1-7694162182e6",
+    "website": "12-113-structural-geology-fall-2005"
+  },
+  "course_title": "Structural Geology",
+  "course_description": "Structural geology is the study of processes and products of rock deformation. This course introduces the techniques of structural geology through a survey of the mechanics of rock deformation, a survey of the features and geometries of faults and folds, and techniques of strain analysis. Regional structural geology and tectonics are introduced. Class lectures are supplemented by lab exercises and demonstrations as well as field trips to local outcrops.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.113",
+  "course_image_thumbnail": {
+    "content": "2a811c04-e840-19de-cccd-35376b01f4bd",
+    "website": "12-113-structural-geology-fall-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "3e434cb1-0d35-4008-a4f3-1ba41891ddad",
+  "site_short_id": "12.113-fall-2005",
+  "site_url_path": "courses/12-113-structural-geology-fall-2005",
+  "title": "Course Metadata"
+}
